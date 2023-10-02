@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\yazılı ort\yazılı ort\bin\Debug\yazılı ort.exe.config
+C:\Users\User\source\repos\yazılı ort\yazılı ort\bin\Debug\yazılı ort.exe
+C:\Users\User\source\repos\yazılı ort\yazılı ort\bin\Debug\yazılı ort.pdb
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı ort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı ort.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı_ort.Form1.resources
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı_ort.Properties.Resources.resources
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı ort.csproj.GenerateResource.cache
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı ort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı ort.exe
+C:\Users\User\source\repos\yazılı ort\yazılı ort\obj\Debug\yazılı ort.pdb
